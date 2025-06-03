@@ -14,25 +14,16 @@ SUMMARY:《关于我母亲的一切》24帧放映🎥
 DESCRIPTION:电影：《关于我母亲的一切》\n导演：佩德罗·阿莫多瓦｜101分钟｜1999｜IIB \n单亲母亲寻夫之旅，女性互助群像，获奥斯卡最佳外语片提名\n豆瓣：https://movie.douban.com/subject/1291937/\n购票：https://p.baominggongju.com/detail?eid=6831d78918bebe8cfc5f0831&referer=odVL41PGbAcLpRNWNWaC9FAcSRMkn\n地址：上影国际影城（翡翠城店）
 LOCATION:上影国际影城（翡翠城店）
 END:VEVENT
+
 BEGIN:VEVENT
 UID:20250605T193000-2@24fps.com
 DTSTAMP:20250605T113000Z
 DTSTART;TZID=Asia/Shanghai:20250605T193000
 DTEND;TZID=Asia/Shanghai:20250605T213900
-
 SUMMARY:《傲慢与偏见》24帧放映🎥
-DESCRIPTION:电影：《傲慢与偏见》\n导演：乔·怀特｜129分钟｜2005｜I \n讲述了爱情与阶级的终极碰撞，傲慢与偏见交织下的致命吸引力。\n购票：https://p.baominggongju.com/detail?eid=6831d78918bebe8cfc5f0831&referer=odVL41PGbAcLpRNWNWaC9FAcSRMk\n地址：上影国际影城（翡翠城店）
+DESCRIPTION:电影：《傲慢与偏见》\n导演：乔·怀特｜129分钟｜2005｜I \n讲述了爱情与阶级的终极碰撞，傲慢与偏见交织下的致命吸引力。\n豆瓣：https://movie.douban.com/subject/1418200/\n购票：https://p.baominggongju.com/detail?eid=6831d78918bebe8cfc5f0831&referer=odVL41PGbAcLpRNWNWaC9FAcSRMk\n地址：上影国际影城（翡翠城店）
 LOCATION:上影国际影城（翡翠城店）
-\n豆瓣：https://movie.douban.com/subject/1418200/
 END:VEVENT
-BEGIN:VEVENT
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//24帧放映厅//Film Calendar//EN
-CALSCALE:GREGORIAN
-METHOD:PUBLISH
-X-WR-CALNAME:24帧放映厅 六月放映片单（2025）
-X-WR-TIMEZONE:Asia/Shanghai
 
 BEGIN:VEVENT
 UID:20250606T193000-1@24fps.com
@@ -213,7 +204,3 @@ SUMMARY:《小姐》24帧放映🎥
 DESCRIPTION:电影：《小姐》\n导演：朴赞郁｜168分钟｜2016｜III\n改编自《指匠情挑》的悬疑情色杰作\n豆瓣：https://movie.douban.com/subject/25977027/\n购票：https://p.baominggongju.com/detail?eid=6831d78918bebe8cfc5f0831&referer=odVL41PGbAcLpRNWNWaC9FAcSRMk\n地址：上影国际影城（翡翠城店）
 LOCATION:上影国际影城（翡翠城店）
 END:VEVENT
-
-END:VCALENDAR
-END:VEVENT
-END:VCALENDAR   ics 文件
